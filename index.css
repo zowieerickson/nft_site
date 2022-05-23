@@ -4,6 +4,21 @@ body {
     margin: 0;
 }
 
+header {
+    background-color: #5f29a3;
+    color: #fff;
+    padding: 45px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+section {
+    padding: 45px 0;
+}
+
 p a {
     color: #ef5839;
     text-decoration: underline dotted;
