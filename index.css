@@ -42,7 +42,7 @@ header {
 }
 
 .container {
-    max-width: 620px;
+    width: 620px;
     margin: 0 auto;
 }
 
@@ -57,4 +57,14 @@ section {
 .section-highlight {
     background: #5f29a3;
     color: whitesmoke
+}
+
+.feature-image {
+    width: 300px;
+    border-radius: 4.6px;
+}
+
+.feature-image_container {
+    display: flex;
+    justify-content: space-between;
 }
