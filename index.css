@@ -12,3 +12,9 @@ p a {
 p a:hover, p a:active {
     color: #d4b44c
 }
+
+
+.container {
+    max-width: 620px;
+    margin: 0 auto;
+}
