@@ -80,6 +80,7 @@ footer {
 }
 
 .btn {
+    display: inline-block;
     padding: 10px 19px;
     border-radius: 4.6px;
     text-decoration: none;
