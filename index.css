@@ -78,3 +78,29 @@ footer {
     color: #5f29a3;
     padding: 45px 0;
 }
+
+.btn {
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: #f3e885;
+    background: #2b283a;
+}
+
+.btn-primary {
+    color: whitesmoke;
+    background: #5f29a3;
+}
+
+.btn-secondary {
+    color: #5f29a3;
+    background: #f0e0ff;
+}
+
+.btn-tertiary {
+    color: #5f29a3;
+    background: whitesmoke;
+}
