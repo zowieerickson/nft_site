@@ -1,5 +1,14 @@
 body {
     box-sizing: border-box;
     padding: 0;
-    margin: 0
+    margin: 0;
+}
+
+p a {
+    color: #ef5839;
+    text-decoration: underline dotted;
+}
+
+p a:hover, p a:active {
+    color: #d4b44c
 }
