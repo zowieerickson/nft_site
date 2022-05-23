@@ -17,6 +17,16 @@ h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0;
 }
 
+h1 {
+    font-size: 36px;
+}
+
+h3{
+    color: #d0aaff;
+    font-size: 20px;
+    margin:0;
+}
+
 section {
     padding: 45px 0;
 }
